@@ -1,0 +1,20 @@
+{
+    "l": {
+        "chainstay": 460,
+        "seattube": 560,
+        "toptube": 564.5,
+        "headtube": 152,
+        "forklength": 390,
+        "bbdrop": 78,
+        "wheelbase": 1055.6,
+        "h": 0,
+        "reach": 389.3,
+        "stack": 588,
+        "forkoffset": 45,
+        "toptubediameter": 28.6  
+    },
+    "a": {
+        "headtubeangle": 72,
+        "seattubeangle": 73
+      }
+  }
